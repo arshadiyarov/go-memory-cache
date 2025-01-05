@@ -1,4 +1,4 @@
-package cache
+package main
 
 type Cache struct {
 	data map[string]interface{}
